@@ -1,7 +1,7 @@
 # Data-Professional-Breakdown-Dashboard
 
 # Project Overview
-This project consists of a survey aimed at understanding the experiences, preferences, and demographics of data professionals. The survey covers aspects such as job satisfaction, challenges faced in the data field, job-seeking priorities, and personal demographics. The results are compiled in an Excel file and visualized through a comprehensive Power BI dashboard.
+This project consists of a survey aimed at understanding the experiences, preferences, and demographics of data professionals. The survey covers aspects such as job satisfaction, challenges faced in the data field, job-seeking priorities, and personal demographics. The raw surey excel file is attached and The results are visualized through a comprehensive Power BI dashboard.
 
 # Data
 The dataset is collected via an anonymous online survey and includes responses on various topics from professionals in the data field. Key areas covered in the survey include:
